@@ -61,4 +61,4 @@ while True:
 
 
 ### RESULT:
-The LangChain-based PDF question-answering chatbot was successfully designed and implemented. It extracted information from the PDF and provided relevant and accurate answers to different user queries. The chatbot showed good performance in terms of accuracy, relevance, and completeness of responses.
+Successfully developed a LangChain-based PDF Q&A chatbot capable of processing PDF content, performing semantic search using vector embeddings, and generating context-aware answers through an LLM. The project demonstrates the use of Retrieval-Augmented Generation for document-based question answering.
